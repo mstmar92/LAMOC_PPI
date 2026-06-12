@@ -1,0 +1,4 @@
+dataset,proteins,interactions,avg_degree,max_degree,connected_components,mapped_benchmark_complexes
+Gavin,1430,6531,9.134265734265734,81,22,128
+Collins,1622,9070,11.183723797780518,127,193,144
+Krogan,2674,7075,5.291697830964846,140,62,169
